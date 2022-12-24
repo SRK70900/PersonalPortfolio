@@ -1,19 +1,16 @@
-# Swat PK Website
+# SRK Portfolio Website
 
 Click on the link below for live preview of the project
-### [Swat PK Live Preview](https://swatpk.netlify.app/)
+### [SRK Portfolio Live Preview](https://srk70900portfolio.netlify.app/)
 
-### Swat PK Screenshot 1
-![SRK70900 Landing Page](https://github.com/SRK70900/TravelToSwat/blob/master/Screenshot%20(11).png)
+### SRK Portfolio Screenshot 1
+![SRK70900](https://github.com/SRK70900/PersonalPortfolio/blob/master/Screenshot%20(15).png)
 
-### Swat PK Screenshot 2
-![SRK70900 Landing Page](https://github.com/SRK70900/TravelToSwat/blob/master/Screenshot%20(12).png)
+### SRK Portfolio Screenshot 2
+![SRK70900](https://github.com/SRK70900/PersonalPortfolio/blob/master/Screenshot%20(16).png)
 
-### Swat PK Screenshot 3
-![SRK70900 Landing Page](https://github.com/SRK70900/TravelToSwat/blob/master/Screenshot%20(13).png)
-
-### Swat PK Screenshot 4
-![SRK70900 Landing Page](https://github.com/SRK70900/TravelToSwat/blob/master/Screenshot%20(14).png)
+### SRK Portfolio Screenshot 3
+![SRK70900](https://github.com/SRK70900/PersonalPortfolio/blob/master/Screenshot%20(17).png)
 
 ## Introduction
 
